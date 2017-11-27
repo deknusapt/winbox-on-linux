@@ -1,4 +1,4 @@
-## Install and Use Mikrotik winbox on Fedora and other Linuxes
+# Install and Use Mikrotik winbox on Fedora and other Linuxes
 This is the simple script to install and have  Mikrotik Winbox in the Linux Desktop
 
 
@@ -11,4 +11,4 @@ chmod a+x install
 
 ```
 
-# You should have installed Wine on your linux before installing this.
+## You should have installed Wine on your linux before installing this.
