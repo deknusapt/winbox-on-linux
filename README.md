@@ -11,4 +11,10 @@ chmod a+x install
 
 ```
 
-## You should have installed Wine on your linux before installing this.
+You should have installed Wine on your linux before installing this.
+
+
+Download the latest from the link blow and replace it with this file : /usr/bin/winbox.exe
+https://mikrotik.com/download
+
+
