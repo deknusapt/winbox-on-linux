@@ -9,5 +9,6 @@ cd winbox_on_linux
 chmod a+x install
 ./install
 
+```
 
-## You should have installed Wine on your linux before installing this.
+# You should have installed Wine on your linux before installing this.
