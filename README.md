@@ -19,6 +19,6 @@ https://mikrotik.com/download
 
 OR
 could just run this command :
-
+```
 sudo wget -q http://www.mikrotik.com/download/winbox.exe -O /usr/bin/winbox.exe
-
+```
