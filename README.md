@@ -21,5 +21,5 @@ https://mikrotik.com/download
 OR
 could just run this command :
 ```
-sudo wget -q http://www.mikrotik.com/download/winbox.exe -O /usr/bin/winbox.exe
+sudo wget -q https://download.mikrotik.com/winbox/3.21/winbox64.exe -O /usr/bin/winbox.exe
 ```
