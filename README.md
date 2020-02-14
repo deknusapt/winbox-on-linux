@@ -23,6 +23,9 @@ could just run this command :
 ```
 # 64 bit
 sudo wget -q https://download.mikrotik.com/winbox/3.21/winbox64.exe -O /usr/bin/winbox.exe
+```
+OR
+```
 # 32 bit
 sudo wget -q https://download.mikrotik.com/winbox/3.21/winbox32.exe -O /usr/bin/winbox.exe
 
