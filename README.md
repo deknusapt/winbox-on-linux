@@ -18,8 +18,7 @@ You should have installed Wine on your linux before installing this.
 To update the winbox, download the latest from the link blow and replace it with this file : /usr/bin/winbox.exe
 https://mikrotik.com/download
 
-OR
-could just run this command :
+OR just run one of the following commands :
 ```
 # 64 bit
 sudo wget -q https://download.mikrotik.com/winbox/3.21/winbox64.exe -O /usr/bin/winbox.exe
