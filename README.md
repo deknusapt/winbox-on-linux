@@ -21,11 +21,11 @@ https://mikrotik.com/download
 OR just run one of the following commands :
 ```
 # 64 bit
-sudo wget -q https://download.mikrotik.com/winbox/3.22/winbox64.exe -O /usr/bin/winbox.exe
+sudo wget -q https://mt.lv/winbox64 -O /usr/bin/winbox.exe
 ```
 OR
 ```
 # 32 bit
-sudo wget -q https://download.mikrotik.com/winbox/3.22/winbox32.exe -O /usr/bin/winbox.exe
+sudo wget -q https://mt.lv/winbox -O /usr/bin/winbox.exe
 
 ```
