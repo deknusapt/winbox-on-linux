@@ -2,7 +2,7 @@
 Name=Winbox
 Type=Application
 Terminal=false
-Exec=wine /usr/bin/winbox.exe
+Exec=wine64 /usr/bin/winbox.exe
 Icon=/etc/winbox/winbox.ico
 Comment=Winbox to Manage Mikrotik Routers
 Encoding=UTF-8
