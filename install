@@ -5,11 +5,11 @@ mkdir /etc/winbox/ /usr/bin/ -p
 cp winbox.ico /etc/winbox/winbox.ico
 cp winbox.exe /usr/bin/winbox.exe
 
-chown root. /etc/winbox/winbox.ico
+chown root:root /etc/winbox/winbox.ico
 chmod a+r   /etc/winbox/winbox.ico
 
 wget -q https://mt.lv/winbox64 -O /usr/bin/winbox.exe
 
-chown root. /usr/bin/winbox.exe 
+chown root:root /usr/bin/winbox.exe 
 chmod a+r   /usr/bin/winbox.exe
 
