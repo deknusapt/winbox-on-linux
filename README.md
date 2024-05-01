@@ -4,8 +4,8 @@ This is the simple script to install and have a WinBox in the Linux Desktop
 
 
 ```
-git clone https://github.com/oshaghi1/winbox_on_linux.git
-cd winbox_on_linux
+git clone [https://github.com/deknusapt/winbox-on-linux.git]
+cd winbox-on-linux
 chmod a+x install
 ./install
 ```
