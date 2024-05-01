@@ -1,12 +1,10 @@
 [Desktop Entry]
-Name=Winbox
-Type=Application
+Version=1.0
 Terminal=false
-Exec=wine64 /usr/bin/winbox.exe
-Path=/usr/share/applications/winbox.desktop
-Icon=/etc/winbox/winbox.ico
-Comment=Winbox to Manage Mikrotik Routers
-Encoding=UTF-8
-Categories=GNOME;GTK;Network;RemoteAccess;
-X-Desktop-File-Install-Version=0.30
-Name[en_US]=winbox
+Type=Application
+Name=WinBox
+Comment=Routing the world!
+Exec=wine /usr/bin/winbox.exe
+Icon=$HOME/.local/share/icons/winbox.ico
+StartupWMClass=winbox.exe
+Categories=Networking;

@@ -1,4 +1,4 @@
-cp winbox.desktop /usr/share/applications/winbox.desktop
+cp winbox.desktop $HOME/.local/usr/share/applications/winbox.desktop
 
 mkdir /etc/winbox/ /usr/bin/ -p
 
