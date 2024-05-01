@@ -5,6 +5,6 @@ Type=Application
 Name=WinBox
 Comment=Routing the world!
 Exec=wine /usr/bin/winbox.exe
-Icon=$HOME/.local/share/icons/winbox.ico
+Icon=/etc/winbox/winbox.ico
 StartupWMClass=winbox.exe
 Categories=Networking;
